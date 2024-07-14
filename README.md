@@ -2,12 +2,12 @@
 第一:关于用户影评的词云图![词云图](https://github.com/Moment-jianjain/Spyder/blob/master/Expression2/Yutu.jpg)
 
 
-第二:关于近几月份上海天气的状况![条形图]([https://github.com/Moment-jianjain/Spyder/blob/master/Expression2/Yutu.jpg](https://github.com/Moment-jianjain/Spyder/blob/master/Expression4/Weather_2/2024%E4%B8%8A%E6%B5%B7%E5%B8%825-7%E6%9C%88%E5%A4%A9%E6%B0%94%E6%83%85%E5%86%B5.png))
+第二:关于近几月份上海天气的状况![条形图](https://github.com/Moment-jianjain/Spyder/blob/master/Expression4/Weather_2/2024%E4%B8%8A%E6%B5%B7%E5%B8%825-7%E6%9C%88%E5%A4%A9%E6%B0%94%E6%83%85%E5%86%B5.png)
 
 
 
 
-第三:关于编程语言至最近发展热度的状况![词云图]([https://github.com/Moment-jianjain/Spyder/blob/master/Expression2/Yutu.jpg](https://github.com/Moment-jianjain/Spyder/blob/master/Expression6/Programming%20language%20analysis/Language_hot.gif))
+第三:关于编程语言至最近发展热度的状况![词云图](https://github.com/Moment-jianjain/Spyder/blob/master/Expression6/Programming%20language%20analysis/Language_hot.gif)
 
 
 通过实训过程,深入了解和学习了Scrapy爬虫框架提供了丰富的功能，包括数据抓取、数据处理、数据存储等，可以满足各种复杂的网络爬虫需求。采用了异步IO（Twisted）框架，能够高效地处理大量的并发请求，提高爬取速度。提供了丰富的中间件和扩展机制，可以根据需要定制和扩展爬虫的功能。提供了简洁的API和命令行工具，使得编写和维护爬虫变得简单。
